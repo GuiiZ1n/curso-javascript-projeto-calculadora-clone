@@ -82,7 +82,7 @@ class CalcController {
 
         setLastNumberToDisplay() {
 
-            
+
 
         }
     
@@ -121,7 +121,7 @@ class CalcController {
                  
             }
 
-
+               console.log(this._operation);
         }
 
         setError(){
